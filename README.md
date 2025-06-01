@@ -13,17 +13,6 @@ This project explores the **CMS Hospital Readmission dataset** to analyze patter
 
 ---
 
-## 📁 Files
-
-| File | Description |
-|------|-------------|
-| `Hospital_General_Information.csv` | Raw dataset from CMS |
-| `cms_readmission_analysis.ipynb` | Cleaned and well-documented notebook (with markdown explanations) |
-| `powerbi_dashboard/cms_readmission_dashboard.pbix` | Fully interactive dashboard |
-| `powerbi_dashboard/dashboard_screenshot.png` | Preview image of the dashboard |
-
----
-
 ## 🔍 Key Insights
 
 - National average **“Better than National” readmission score** is `0.31`
@@ -35,8 +24,7 @@ This project explores the **CMS Hospital Readmission dataset** to analyze patter
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview]![dashboard](https://github.com/user-attachments/assets/ad68056c-0605-449c-933f-a3c8995402a1)
-
+![dashboard](https://github.com/user-attachments/assets/0ee47267-d2a4-46fa-8757-3990dad9645e)
 
 ---
 
