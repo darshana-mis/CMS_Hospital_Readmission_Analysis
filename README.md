@@ -35,7 +35,7 @@ This project explores the **CMS Hospital Readmission dataset** to analyze patter
 
 ## 📈 Dashboard Preview
 
-![Dashboard Preview](powerbi_dashboard/dashboard_screenshot.png)
+![Dashboard Preview](https://app.powerbi.com/groups/me/reports/a2219937-e3f0-4e75-8360-73022cc8d5b0/3dd963ede8be4f9ceb7e?experience=power-bi)
 
 ---
 
